@@ -1,4 +1,4 @@
-<img src="https://img2.gratispng.com/20180503/xuq/kisspng-github-software-developer-source-code-programmer-mascot-logo-5aeb885dc87b03.8202396215253853098212.jpg" height="220" width="320" align="right"/>
+<img src="https://info.orcid.org/wp-content/uploads/2019/11/github-logo.jpg" height="220" width="320" align="right"/>
 
 # CLI get user Github
 
